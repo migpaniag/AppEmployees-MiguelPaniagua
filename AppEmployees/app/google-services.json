@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800510228591",
+    "firebase_url": "https://ejercicioclase-4c3be-default-rtdb.firebaseio.com",
+    "project_id": "ejercicioclase-4c3be",
+    "storage_bucket": "ejercicioclase-4c3be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800510228591:android:1ef586902b93315d4b359a",
+        "android_client_info": {
+          "package_name": "com.example.appprueba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzHICeSCFcy__v91MB4y56WNOU5qgyUao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
